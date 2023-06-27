@@ -22,15 +22,15 @@ I am an entry-level full-stack software engineer with a background in real estat
 
 The Real Estate Listings App is a server-side rendered web application developed during my software development bootcamp at NYU. It was built using the MERN stack (MongoDB, Express, React, Node.js) and features a clean, simple, and responsive user interface designed with SCSS (Sass). The app allows users to view, add, update, edit, and delete real estate listings.
 
-- [Live Demo](link-to-live-demo)
-- [GitHub Repository](link-to-repo](https://github.com/8cott/real-estate-listings)
+- [Live Demo](https://real-estate-listings-3588c5997453.herokuapp.com/listings)
+- [GitHub Repository](https://github.com/8cott/real-estate-listings)
 
 ### Quiz Game
 
 The Quiz Game was my first milestone project for the Software Development Bootcamp at NYU. I created a quiz/trivia game using HTML, CSS, and JavaScript. The layout is responsive, and the website features a simple design with a black, purple, and grey color scheme.
 
-- [Play the Game](link-to-game)
-- [GitHub Repository](link-to-repo)
+- [Play the Game](https://8cott.github.io/quiz-game/)
+- [GitHub Repository](https://github.com/8cott/quiz-game)
 
 ## Education
 
