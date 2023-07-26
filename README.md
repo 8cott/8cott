@@ -26,6 +26,14 @@ The Real Estate Listings App is a server-side rendered web application developed
 - [GitHub Repository (Client-Side)](https://github.com/8cott/listings-app-client)
 - [GitHub Repository (Server-Side)](https://github.com/8cott/listings-app-server)
 
+### Closing Costs Calculator
+
+This is a closing costs calculator for NYC real estate that I built to help me figure out closing costs for NYC real estate sales for buyers and sellers of condos, co-ops, and townhouses.
+It is still a work in progress and closing costs cannot be calculated accurately until your attorney issues a closing statement, so it should not be used by the public to calculate closing costs.
+
+- [Live Demo](https://cccalc.vercel.app/)
+- [GitHub Repository](https://github.com/8cott/cccalc)
+
 ### Quiz Game
 
 The Quiz Game was my first milestone project for the Software Development Bootcamp at NYU. I created a quiz/trivia game using HTML, CSS, and JavaScript. The layout is responsive, and the website features a simple design with a black, purple, and grey color scheme.
