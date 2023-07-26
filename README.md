@@ -32,7 +32,7 @@ This is a closing costs calculator for NYC real estate that I built to help me f
 It is still a work in progress and closing costs cannot be calculated accurately until your attorney issues a closing statement, so it should not be used by the public to calculate closing costs.
 
 - [Live Demo](https://cccalc.vercel.app/)
-- [GitHub Repository](https://github.com/8cott/cccalc)
+- [GitHub Repository](https://github.com/8cott/cccalc){:target="_blank"}
 
 ### Quiz Game
 
