@@ -22,8 +22,9 @@ I am an entry-level full-stack software engineer with a background in real estat
 
 The Real Estate Listings App is a server-side rendered web application developed during my software development bootcamp at NYU. It was built using the MERN stack (MongoDB, Express, React, Node.js) and features a clean, simple, and responsive user interface designed with SCSS (Sass). The app allows users to view, add, update, edit, and delete real estate listings.
 
-- [Live Demo](https://real-estate-listings-3588c5997453.herokuapp.com/listings)
-- [GitHub Repository](https://github.com/8cott/real-estate-listings)
+- [Live Demo](https://listings-app-client.vercel.app/)
+- [GitHub Repository (Client-Side)](https://github.com/8cott/listings-app-client)
+- [GitHub Repository (Server-Side)](https://github.com/8cott/listings-app-server)
 
 ### Quiz Game
 
