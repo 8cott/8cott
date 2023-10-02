@@ -6,17 +6,25 @@ scottrubin@gmail.com | 646-637-6377
 
 ## About Me
 
-I am an entry-level full-stack software engineer with a background in real estate. Combining my natural leadership abilities, a results-driven mindset, and a track record of surpassing expectations, I am passionate about delivering exceptional client solutions. I recently completed the Software Development Professional Certificate program at New York University, where I gained expertise in HTML, CSS, JavaScript, React, Node.js, and SQL.
+I am a full-stack software engineer with an extensive tech background. I completed the Software Development Professional Certificate program at New York University (NYU), where I gained expertise in HTML, CSS, JavaScript, React, Node.js, MongoDB, Postgresql, Cybersecurity, Python, Django, and advanced programming concepts.
 
 ## Skills
 
-- Programming Languages: HTML, CSS, JavaScript
-- Frameworks & Libraries: React, Redux, ExpressJS, Node.js
+- Programming Languages: JavaScript, Python, HTML, & CSS
+- Frameworks & Libraries: React, Redux, ExpressJS, Node.js, Django, Flask.
 - Databases: MongoDB, PostgreSQL
-- Cloud Services: Amazon Web Services (AWS)
+- Cloud Services: Amazon Web Services (AWS), Heroku, Vercel
 - Other: Git, SQL, UX/UI Design, Cybersecurity
 
 ## Projects
+
+### GPT Fitness
+
+GPT Fitness allows user from the client side to input their physical stats, workout days per week, and dietary restrictions and submit a request to the gpt-3.5-turbo api from openai, which will send back a custom fitness and diet plan. Users who signup and login have the ability to save their plans and delete them. Whenever a logged in user clicks the submit button, their details are saved so they do not need to keep entering them again.
+
+- [Live Demo](https://gpt-fitness-chi.vercel.app/)
+- [GitHub Repository (Client-Side)](https://github.com/8cott/gpt-fitness-client)
+- [GitHub Repository (Server-Side)](https://github.com/8cott/gpt-fitness-server)
 
 ### Real Estate Listings App
 
