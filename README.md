@@ -6,7 +6,7 @@ scottrubin@gmail.com | 646-637-6377
 
 ## About Me
 
-I am a full-stack software engineer with an extensive tech background. I completed the Software Development Professional Certificate program at New York University (NYU), where I gained expertise in HTML, CSS, JavaScript, React, Node.js, MongoDB, Postgresql, Cybersecurity, Python, Django, and advanced programming concepts.
+I am an experienced full-stack software engineer with an extensive tech background. I completed the Software Development Professional Certificate program at New York University (NYU), where I gained expertise in HTML, CSS, JavaScript, React, Node.js, MongoDB, Postgresql, Cybersecurity, Python, Django, and advanced programming concepts.
 
 ## Skills
 
