@@ -1,7 +1,7 @@
 # Scott Rubin
 
 Brooklyn, NY  
-scottrubin@gmail.com
+scottrubin@gmail.com | 
 [LinkedIn](linkedin.com/in/srubin)
 
 ## About Me
