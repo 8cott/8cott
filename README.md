@@ -1,7 +1,7 @@
 # Scott Rubin
 
 Brooklyn, NY  
-scottrubin@gmail.com | 646-637-6377  
+scottrubin@gmail.com
 [LinkedIn](linkedin.com/in/srubin)
 
 ## About Me
