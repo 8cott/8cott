@@ -22,7 +22,7 @@ I am an experienced full-stack software engineer with an extensive tech backgrou
 
 GPT Fitness allows user from the client side to input their physical stats, workout days per week, and dietary restrictions and submit a request to the gpt-3.5-turbo api from openai, which will send back a custom fitness and diet plan. Users who signup and login have the ability to save their plans and delete them. Whenever a logged in user clicks the submit button, their details are saved so they do not need to keep entering them again.
 
-- [Live Demo](https://gpt-fitness-chi.vercel.app/)
+- [Live Demo](https://www.gptfitnessapp.com/)
 - [GitHub Repository (Client-Side)](https://github.com/8cott/gpt-fitness-client)
 - [GitHub Repository (Server-Side)](https://github.com/8cott/gpt-fitness-server)
 
@@ -30,7 +30,7 @@ GPT Fitness allows user from the client side to input their physical stats, work
 
 The Real Estate Listings App is a Full Stack web application developed during my software development bootcamp at NYU. It was built using the MERN stack (MongoDB, Express, React, Node.js) and features a clean, simple, and responsive user interface designed with MUI and CSS. The app allows users to view, add, update, edit, and delete real estate listings.
 
-- [Live Demo](https://listings-app-client.vercel.app/)
+- [Live Demo](https://www.gptfitnessapp.com/)
 - [GitHub Repository (Client-Side)](https://github.com/8cott/listings-app-client)
 - [GitHub Repository (Server-Side)](https://github.com/8cott/listings-app-server)
 
