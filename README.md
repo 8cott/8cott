@@ -30,7 +30,7 @@ GPT Fitness allows user from the client side to input their physical stats, work
 
 The Real Estate Listings App is a Full Stack web application developed during my software development bootcamp at NYU. It was built using the MERN stack (MongoDB, Express, React, Node.js) and features a clean, simple, and responsive user interface designed with MUI and CSS. The app allows users to view, add, update, edit, and delete real estate listings.
 
-- [Live Demo](https://www.gptfitnessapp.com/)
+- [Live Demo]([https://www.gptfitnessapp.com/](https://listings-app-client.vercel.app/))
 - [GitHub Repository (Client-Side)](https://github.com/8cott/listings-app-client)
 - [GitHub Repository (Server-Side)](https://github.com/8cott/listings-app-server)
 
